@@ -2,7 +2,7 @@
 layout: "layout"
 ---
 
-Hallo!
+Hello Everyone!
 
 This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
 
