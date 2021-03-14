@@ -8,7 +8,6 @@ ZCZC W00  75 L02 ZOOM related
 ZCZC W00  10 L05 GSGS related
 ZCZC W00  20 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W00  15 L01 SCELE related
-
 ZCZC W01  20 L01 SCELE related
 ZCZC W01  120 L02 ZOOM related
 ZCZC W01  75 L05 GSGS related
@@ -19,7 +18,6 @@ ZCZC W01  7  L12 Assignment #2
 ZCZC W01  10 L13 Assignment #3
 ZCZC W01  30 L14 Assignment #4
 ZCZC W01  20 L17 Assignment #7
-
 ZCZC W02  10 L01 cek info in SCELE
 ZCZC W02  150 L02 ZOOM senin sore dan selasa pagi
 ZCZC W02  5 L03 cek data github
