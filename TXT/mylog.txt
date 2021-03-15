@@ -26,4 +26,4 @@ ZCZC W02  15 L06 reading slide and tutorial os
 ZCZC W02  4 L07 demo program c
 ZCZC W02  3 L09 tanya error ke asdos
 ZCZC W02  180 L11 mengerjakan tugas buat pubkey(debug) + update mylog and myrank
-    
+ZCZC W02  30 L12 mengerjakan 10 top link untuk W02     
